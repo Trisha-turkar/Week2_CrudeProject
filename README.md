@@ -253,6 +253,9 @@ Open the application:
 
 ```
 http://localhost:3000
+after :
+
+http://localhost:3000/employee 
 ```
 
 ---
